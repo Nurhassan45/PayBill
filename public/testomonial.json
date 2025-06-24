@@ -1,0 +1,57 @@
+ [
+      {
+        "id": 1,
+        "quote": "Baserow stands out with its user-friendly interface and cloud-based accessibility.",
+        "author": "Marck L.",
+        "role": "Product Manager",
+        "avatar": "https://i.ibb.co.com/9kXCVpGg/pic1.jpg",
+        "rating": 5,
+        "highlight": "user-friendly interface"
+      },
+      {
+        "id": 2,
+        "quote": "API is working better compared to Airtable. It was a deal breaker. Baserow is easy to use and has a super fast API.",
+        "author": "Chandan K.",
+        "role": "Owner",
+        "avatar": "https://i.ibb.co.com/gZvxJQhW/pic2.jpg",
+        "rating": 5,
+        "highlight": "super fast API"
+      },
+      {
+        "id": 3,
+        "quote": "We were looking for an Airtable replacement tool and this is by far the best we've seen.",
+        "author": "Rob C.",
+        "role": "Digital Content Manager",
+        "avatar": "https://i.ibb.co.com/yjtsXPH/pic3.jpg",
+        "rating": 5,
+        "highlight": "Airtable replacement"
+      },
+      {
+        "id": 4,
+        "quote": "Baserow has become a central repository for company information. Amazing product!",
+        "author": "Kenneth D.",
+        "role": "Information Systems Manager",
+        "avatar": "https://i.ibb.co.com/rf6FPwbC/pic4.jpg",
+        "rating": 5,
+        "highlight": "central repository"
+      },
+      {
+        "id": 5,
+        "quote": "With Baserow, there has been increased productivity and comparatively reduced personnel costs as to adding experts.",
+        "author": "Samuel K.",
+        "role": "Software Developer",
+        "avatar": "https://i.ibb.co.com/R43vX9sn/pic5.jpg",
+        "rating": 5,
+        "highlight": "increased productivity"
+      },
+      {
+        "id": 6,
+        "quote": "The basic functions and overall app design are excellent. The migration from other apps has been effortless.",
+        "author": "Brian T.",
+        "role": "Chief Enthusiasm Officer",
+        "avatar": "https://i.ibb.co.com/84Dr0Qf0/pic6.jpg",
+        "rating": 5,
+        "highlight": "effortless migration"
+      }
+    ]
+    

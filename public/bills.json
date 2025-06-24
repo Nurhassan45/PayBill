@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "bill_name": "Electricity bill",
+    "bill_type": "electricity",
+    "category_icon": "https://cdn.jsdelivr.net/npm/ionicons@5.5.2/dist/svg/flash-outline.svg",
+    "organization": "DESCO",
+    "organization_logo": "https://logo.clearbit.com/desco.org.bd", 
+    "amount": 1890,
+    "due_date": "2025-03-22",
+    "color": "#F9D423"
+  },
+  {
+    "id": 2,
+    "bill_name": "Gas bill",
+    "bill_type": "gas",
+    "category_icon": "https://cdn.jsdelivr.net/npm/ionicons@5.5.2/dist/svg/flame-outline.svg",
+    "organization": "Titas Gas",
+    "amount": 1890,
+    "organization_logo": "https://i.ibb.co.com/PvxGdhHX/Titas.png", 
+    "due_date": "2025-03-28",
+    "color": "#FF416C"
+  },
+  {
+    "id": 3,
+    "bill_name": "Water bill",
+    "bill_type": "water",
+    "category_icon": "https://cdn.jsdelivr.net/npm/ionicons@5.5.2/dist/svg/water-outline.svg",
+    "organization": "WASA",
+    "organization_logo": "https://i.ibb.co.com/TBXCW1Tw/cwasa.png",
+    "amount": 750,
+    "due_date": "2025-04-05",
+    "color": "#1CB5E0"
+  },
+  {
+    "id": 4,
+    "bill_name": "Internet bill",
+    "bill_type": "internet",
+    "category_icon": "https://cdn.jsdelivr.net/npm/ionicons@5.5.2/dist/svg/wifi-outline.svg",
+    "organization": "Link3",
+    "organization_logo": "https://i.ibb.co.com/dwWwhrfB/Link3.png", 
+    "amount": 1200,
+    "due_date": "2025-03-30",
+    "color": "#00B09B"
+  },
+  {
+    "id": 5,
+    "bill_name": "Mobile bill",
+    "bill_type": "mobile",
+    "category_icon": "https://cdn.jsdelivr.net/npm/ionicons@5.5.2/dist/svg/phone-portrait-outline.svg",
+    "organization": "Grameenphone",
+    "organization_logo": "https://i.ibb.co.com/F9Fdr5d/grameen.jpg", 
+    "amount": 499,
+    "due_date": "2025-04-10",
+    "color": "#7B2BFF"
+  },
+  {
+    "id": 6,
+    "bill_name": "TV bill",
+    "bill_type": "tv",
+    "category_icon": "https://cdn.jsdelivr.net/npm/ionicons@5.5.2/dist/svg/tv-outline.svg",
+    "organization": "Akash DTH",
+    "organization_logo": "https://i.ibb.co.com/5x8KKGfM/Akas.png", 
+    "amount": 350,
+    "due_date": "2025-04-01",
+    "color": "#FF5F6D"
+  },
+  {
+    "id": 7,
+    "bill_name": "Credit card bill",
+    "bill_type": "credit_card",
+    "category_icon": "https://cdn.jsdelivr.net/npm/ionicons@5.5.2/dist/svg/card-outline.svg",
+    "organization": "City Bank",
+    "organization_logo": "https://i.ibb.co.com/PsL88f3M/citybank.png", 
+    "amount": 12500,
+    "due_date": "2025-03-25",
+    "color": "#4776E6"
+  },
+  {
+    "id": 8,
+    "bill_name": "Insurance bill",
+    "bill_type": "insurance",
+    "category_icon": "https://cdn.jsdelivr.net/npm/ionicons@5.5.2/dist/svg/shield-checkmark-outline.svg",
+    "organization": "Pragati Insurance",
+    "organization_logo": "https://i.ibb.co.com/tppNrBVh/praguti.jpg", 
+    "amount": 2500,
+    "due_date": "2025-04-15",
+    "color": "#00C9FF"
+  }
+]

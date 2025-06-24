@@ -1,0 +1,91 @@
+
+     [
+      {
+        "category": "MONETARY POLICY",
+        "icon": "💰",
+        "items": [
+          "MPS (January-June, 2025)",
+          "Monetary Policy",
+          "MPC Resolution New",
+          "Repo Information",
+          "BB Bill Auction"
+        ],
+        "color": "bg-blue-50 text-blue-600"
+      },
+      {
+        "category": "INVESTMENT FACILITY",
+        "icon": "📈",
+        "items": [
+          "Facilities/Incentives",
+          "Inward Remittance Facilities",
+          "NRB Bond",
+          "Prizebond | Sanchayapatra"
+        ],
+        "color": "bg-green-50 text-green-600"
+      },
+      {
+        "category": "SERVICES",
+        "icon": "🛎️",
+        "items": [
+          "E-Services",
+          "Customer Complaints",
+          "BB Forms",
+          "Claim Your Money"
+        ],
+        "color": "bg-purple-50 text-purple-600"
+      },
+      {
+        "category": "INNOVATION CORNER",
+        "icon": "💡",
+        "items": [
+          "Innovation Team",
+          "Innovation Action Plan (2023-2024)",
+          "Innovation Guidelines (2023-2024)"
+        ],
+        "color": "bg-yellow-50 text-yellow-600"
+      },
+      {
+        "category": "MEDIA & PRESS RELEASE",
+        "icon": "📰",
+        "items": [
+          "Circulars/Circular Letters",
+          "Press Release",
+          "Regulations And Guidelines",
+          "Procurements Underway"
+        ],
+        "color": "bg-red-50 text-red-600"
+      },
+      {
+        "category": "GOVERNMENT SECURITIES",
+        "icon": "🏛️",
+        "items": [
+          "Government Securities Market",
+          "Primary Auction Of Treasury Bill & Bond",
+          "G-Sec OMS | YTM Curve | MTM",
+          "BD Govt Investment Sukuk (BGIS)"
+        ],
+        "color": "bg-indigo-50 text-indigo-600"
+      },
+      {
+        "category": "ECONOMIC DATA",
+        "icon": "📊",
+        "items": [
+          "Wage Earner's Remittance Inflow",
+          "BOP, Export & Import",
+          "NSDP",
+          "Recent Upload"
+        ],
+        "color": "bg-teal-50 text-teal-600"
+      },
+      {
+        "category": "NATIONAL INTEGRITY STRATEGY",
+        "icon": "🏆",
+        "items": [
+          "Ethics Committee",
+          "Implementation Plan",
+          "Integrity Award (FY 2020-21) Winner"
+        ],
+        "color": "bg-amber-50 text-amber-600"
+      }
+    ]
+  
