@@ -8,8 +8,7 @@ const AuthProvider = ({children}) => {
       let [idData,setIdData]=useState([]);
       let[loading,setLoading]=useState(true);
       let[amountTaak,setAmount]=useState(10000);
-    // let navigate=useNavigate();
-    // console.log(user);
+   
     let handleLogin=(email,password)=>{
         // alert();
        return signInWithEmailAndPassword(auth,email,password)

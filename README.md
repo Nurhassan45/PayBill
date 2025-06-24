@@ -1,37 +1,43 @@
-# React + Vite
+# 📦 Parcel Delivery Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Site:** [assignmentfirebase9.web.app](https://assignmentfirebase9.web.app/)
 
-Currently, two official plugins are available:
+This is a full-stack **Online Bill payment management system** built using React and Firebase on the frontend . The application allows users to place pay requests, track their pay, and manage service centers.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔐 User Authentication (Login & Register)
+- 💳 Delivery and Payment Status Management
+- 📍 Pay Bill from Anywhere
+- 🌐 Fully responsive UI (Mobile + Desktop)
 
-## Project Name:
-AssignmentFirebase9
-## Purpose:
-This website serves as an online platform that allows users to conveniently pay their bills electronically, eliminating the need for physical checks, cash, or in-person visits. These websites are commonly used for utilities, credit cards, loans, subscriptions, and other recurring payments.
-## Live Url:
-https://assignmentfirebase9.web.app/
-## Key Features:
-1. User Authentication & Security
-Secure Login (Email/Phone + Password, OTP, Social Login)
-Two-Factor Authentication (2FA) for high-risk transactions
-Biometric Login (Fingerprint, Face ID)
-Session Timeout for inactive users
+---
 
-2. Dashboard & Bill Management
-Unified Dashboard (View all pending/paid bills)
-Auto-Bill Fetching (Sync with service providers)
-Due Date Alerts (Push notifications, SMS, email)
-Payment History & Receipts (Downloadable PDFs)
-## Npm packages i used:
-1) Icons:	react-icons
-2) Notifications:	react-toastify
-3) Slider : react-swiper
-4) User Auth:	firebase 
-5) Routing:	react-router
+## 🛠️ Technologies Used
+
+### 🔹 Frontend:
+- React.js
+- React Router 
+- Tailwind CSS
+- DaisyUI
+- Firebase Auth
+- Axios
+- SweetAlert2 (for confirmation and alerts)
+- Farmer Motion
+
+
+
+## 🔐 Admin Features
+
+- View all parcels with details
+- Update parcel delivery and payment status
+- Add new service centers
+- Delete any parcel with confirmation modal
+- Secure routes with role-based access
+
+---
+
+## 📁 Folder Structure (Frontend)
+
