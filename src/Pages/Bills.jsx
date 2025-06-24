@@ -4,7 +4,6 @@ import BillCard from '../Component/Cards/BillCard';
 
 const Bills = () => {
     let data=useLoaderData();
-    // console.log(data)
     return (
         <div>
            
